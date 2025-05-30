@@ -1,5 +1,7 @@
 public class vehicle {
 
-    public int speed;
 
+    public void start() {
+        System.out.println("Araç çalıltı.");
+    }
 }

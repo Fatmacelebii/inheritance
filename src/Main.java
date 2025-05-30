@@ -3,10 +3,7 @@
 public class Main {
     public static void main(String[] args) {
 
-
-        car car1 = new car();
-
-        car1.speed= 180;
-        System.out.println(car1.speed);
+    car car1 = new car();
+    car1.start();
     }
 }
